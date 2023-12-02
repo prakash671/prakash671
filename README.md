@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Prakash Chandrasekar
-- 👀 I’m interested in Coding, Web Development
-- 🌱 I’m currently learning on Spring Boot, React, API 
+- 👨🏽‍💻 I'm a Software Developer Full stack at Cognizant
+- 🅰️ Effectively executed Angular/TypeScript projects, showcasing adeptness in rapid learning and timely project delivery.
+- 🌱 currently learning intermediate-level Spring Boot expertise, focusing on core and composite Maven backend modules.
+
             
 
